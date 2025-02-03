@@ -140,7 +140,7 @@ Finally, I’d like to talk about my family, specifically my late grandmother wh
 
 ### What is Glaucoma {#what-is-glaucoma}
 
-![Fundus Image 1](images/image6.png)  
+![Fundus Image 1](images/image6.jpg)  
 ![Fundus Image 2](images/image3.png)  
 This image is annotated by me and is from the PAPILA dataset more information on the data set can be found here [https://www.nature.com/articles/s41597-022-01388-1](https://www.nature.com/articles/s41597-022-01388-1)
 
